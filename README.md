@@ -1,6 +1,7 @@
 # NotepadJune
 NotepadJune is a text editor developed by Java swing. You need to install Java runtime environment before use it. It's very smart to Java developer, 
 but we can't find any other functions worthy mentioning.be that as it may,it's can be used study,simple use,develop again and so on.
+![image](https://github.com/gapheap/NotepadJune/assets/135700446/ceb57262-0dcb-481a-9574-72a8744fb6b7)
 
 
 License
